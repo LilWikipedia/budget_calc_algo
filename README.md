@@ -1,2 +1,2 @@
-# buget_calc_algo
+# budget_calc_algo
 cs-unit7
